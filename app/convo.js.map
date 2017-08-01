@@ -1,0 +1,1 @@
+{"version":3,"file":"convo.js","sourceRoot":"","sources":["../src/convo.ts"],"names":[],"mappings":";;AAAA,sCAAsC;AAItC,kBAAe;IACX,CAAC,OAAwB;QACrB,OAAO,CAAC,OAAO,CAAC,IAAI,CAAC,OAAO,EAAE,oBAAoB,CAAC,CAAC;IACxD,CAAC;IACD,CAAC,OAAwB,EAAE,OAAiB;QACxC,OAAO,CAAC,eAAe,CAAC,UAAU,OAAO,CAAC,QAAQ,EAAE,CAAC,CAAC;IAC1D,CAAC;CACJ,CAAA"}
